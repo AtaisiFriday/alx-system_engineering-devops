@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=$((1 + 28)) "\n"
+export TRUEKNOWLEDGE=$((1 + 28))
